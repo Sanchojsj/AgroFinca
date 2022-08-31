@@ -11,6 +11,7 @@
         "laravel/sanctum": "^2.14.1",
         "laravel/tinker": "^2.7",
         "laravel/ui": "^3.4",
+        "laraveldaily/laravel-charts": "^0.1.29",
         "yajra/laravel-datatables-oracle": "~9.0"
     },
     "require-dev": {
