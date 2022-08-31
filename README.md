@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/SD_Project.git
+    git clone https://github.com/Sanchojsj/AgroFinca.git
 
     cd SD_Project/
     
