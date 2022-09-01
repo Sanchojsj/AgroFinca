@@ -25,7 +25,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
     git clone https://github.com/Sanchojsj/AgroFinca.git
 
-    cd SD_Project/
+    cd AgroFinca/
     
 ### Composer Install
 
@@ -38,7 +38,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
     cp .env.example .env
  
     
- ### For Migration table in database [Create database name as ```sdproject```]
+ ### For Migration table in database [Create database name as ```agrofinca```]
  
     php artisan key:generate
  
