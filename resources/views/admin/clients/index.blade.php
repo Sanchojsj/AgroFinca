@@ -30,7 +30,7 @@
                         <a href="{{ route('admin.clients.create') }}" class="btn btn-primary mb-3">Nuevo Cliente</a>
 
                         <table class="table table-bordered" id="client_table">
-                            <thead>
+                            <thead class="table-dark">
                                 <tr>
                                     <th>Nombre del cliente</th>
                                     <th>Email del cliente</th>

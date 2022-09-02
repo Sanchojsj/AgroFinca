@@ -30,7 +30,7 @@
                         <a href="{{ route('admin.tasks.create') }}" class="btn btn-primary mb-3">Nuevo Tarea</a>
 
                         <table class="table table-bordered" id="tasks_table">
-                            <thead>
+                            <thead class="table-dark">
                                 <tr>
                                     <th>Tarea</th>
                                     <th>Descripcion</th>

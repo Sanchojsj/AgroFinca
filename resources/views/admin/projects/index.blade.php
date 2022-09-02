@@ -30,7 +30,7 @@
                         <a href="{{ route('admin.projects.create') }}" class="btn btn-primary mb-3">Nuevo Proyecto</a>
 
                         <table class="table table-bordered" id="projects_table">
-                            <thead>
+                            <thead class="table-dark">
                                 <tr>
                                     <th>Proyecto</th>
                                     <th>Descripcion</th>

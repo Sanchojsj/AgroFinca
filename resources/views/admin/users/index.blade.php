@@ -30,7 +30,7 @@
                         <a href="{{ route('admin.users.create') }}" class="btn btn-primary mb-3">Nuevo Usuario</a>
 
                         <table class="table table-bordered" id="user_table">
-                            <thead>
+                            <thead class="table-dark">
                                 <tr>
                                     <th>Nombre</th>
                                     <th>Email</th>
@@ -59,7 +59,6 @@
                                 @endforeach
                             </tbody>
                         </table>
-
                     </div>
                 </div>
             </div>
@@ -72,5 +71,7 @@
     $(document).ready(function() {
         $('#user_table').DataTable();
     });
+    
+    
 </script>
 @endsection

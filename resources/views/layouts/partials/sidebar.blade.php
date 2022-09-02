@@ -1,16 +1,17 @@
+<script src="https://kit.fontawesome.com/f1bdee8178.js" crossorigin="anonymous"></script>
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <a href="#" class="brand-link">
-        <span class="brand-text font-weight-light">CRM</span>
+        <span class="brand-text font-weight-light"><i class="fa-solid fa-spa"></i> AgroFinca 4.0</span>
     </a>
 
     <div class="sidebar">
         <nav class="mt-2">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                    <a href="/home" class="nav-link">
+                        <i class="nav-icon fas fa-house"></i>
                         <p>
-                            Dashboard
+                            Inicio
                         </p>
                     </a>
                 </li>
@@ -49,8 +50,6 @@
                 <li class="nav-item">
                     <a href="#" class="nav-link" onclick="event.preventDefault(); document.getElementById('logoutform').submit();">
                         <p>
-                            <i class="fas fa-fw fa-sign-out-alt nav-icon">
-
                             </i>
                             <p>Cerrar sesión</p>
                         </p>
