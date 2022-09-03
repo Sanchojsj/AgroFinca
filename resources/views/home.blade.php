@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('layouts.admin2')
 
 @section('content')
 <main>
@@ -101,6 +101,7 @@
         </div>
     </div>
 </main>
+
 @endsection
 
 @section('scripts')
